@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Th.Templete.Application.Contract\Th.Templete.Application.Contract.csproj" />
+    <ProjectReference Include="..\Th.Templete.Domain.Shared\Th.Templete.Domain.Shared.csproj" />
+    <ProjectReference Include="..\Th.Templete.Domain\Th.Templete.Domain.csproj" />
+    <ProjectReference Include="..\Th.Templete.Repositories\Th.Templete.Repositories.csproj" />
+  </ItemGroup>
+
+</Project>

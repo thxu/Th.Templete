@@ -1,0 +1,14 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "thxu", 
+    "classifications": [ "Web/Thxu_WebAPI" ], 
+    "name": "thxuApi3.1",
+    "identity": "thxuApi3.1",
+    "shortName": "thxuApi3.1",
+    "tags": {
+      "language": "C#" ,
+      "type":"project"
+    },
+    "sourceName": "Th.Templet",
+    "preferNameDirectory": true
+}
